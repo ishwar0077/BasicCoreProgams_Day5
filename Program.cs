@@ -5,7 +5,8 @@ namespace BasicCoreProgam
     {
         public static void Main(string[] args)
         {
-            OddEvenNumber.CheckOddEven();
+            VowelAndConsonant.CheckType();
+
 
         }
     }
